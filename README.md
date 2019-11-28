@@ -1,1 +1,3 @@
-Examples of solving Input Output Exceptions
+Examples of Input Output Exceptions
+
+using Buffered Reader & Buffered Writer
